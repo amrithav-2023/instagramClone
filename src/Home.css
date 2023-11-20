@@ -1,0 +1,11 @@
+.Homepage{
+    display: flex;
+    flex-direction: row;
+}
+.homeNav{
+    flex: 0.2; /* 0.2 represent 20% */
+}
+.homeTimeline{
+    flex: 0.8;
+
+}
